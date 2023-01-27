@@ -1,3 +1,5 @@
+Written by: **Guy McDowell** (https://helpdeskgeek.com/how-to/block-websites-using-hosts-file/)
+
 **Blocking Websites With The Hosts File**
 -----------------------------------------
 

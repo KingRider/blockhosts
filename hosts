@@ -15981,9 +15981,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.comnatix.com
 0.0.0.0	*.comnatix.com
 0.0.0.0	comnatix.com
-0.0.0.0	cdn.ampproject.org
-0.0.0.0	*.ampproject.org
-0.0.0.0	ampproject.org
+0.0.0.0	cdn.ampproject.org  ## perigoso deve bloquear
+0.0.0.0	*.ampproject.org 	## perigoso deve bloquear
+0.0.0.0	ampproject.org 		## perigoso deve bloquear
 0.0.0.0	*.websourcetracking.com
 0.0.0.0	websourcetracking.com
 0.0.0.0	*.learnthelyrics.com
@@ -16322,6 +16322,99 @@ ff02::3	ip6-allhosts
 0.0.0.0	*.bet365.com
 0.0.0.0	dhthrewdownth.com
 0.0.0.0	*.dhthrewdownth.com
+0.0.0.0	fornodelenha.net
+0.0.0.0	*.fornodelenha.net
+0.0.0.0	csp.withgoogle.com
+0.0.0.0	*.withgoogle.com
+0.0.0.0	withgoogle.com
+0.0.0.0	refbanners.com
+0.0.0.0	wlpixbet.adsrv.eacdn.com
+0.0.0.0	wlapostaquente.adsrv.eacdn.com
+0.0.0.0	wlbrazilonebet.adsrv.eacdn.com
+0.0.0.0	adsrv.eacdn.com
+0.0.0.0	*.eacdn.com
+0.0.0.0	eacdn.com
+0.0.0.0	cdn.viglink.com
+0.0.0.0	*.viglink.com
+0.0.0.0	viglink.com
+0.0.0.0	*.protagcdn.com
+0.0.0.0	protagcdn.com
+0.0.0.0	0062-jbc.dtvott.com
+0.0.0.0	*.dtvott.com
+0.0.0.0	cdn.atendimen.to
+0.0.0.0	*.atendimen.to
+0.0.0.0	atendimen.to
+0.0.0.0	*.audima.co
+0.0.0.0	audima.co
+0.0.0.0	*.ontherunvideo.com
+0.0.0.0	ontherunvideo.com
+0.0.0.0	code.yengo.com
+0.0.0.0	yengo.com
+0.0.0.0	*.anifefashionism.com
+0.0.0.0	anifefashionism.com
+0.0.0.0	*.bc.game
+0.0.0.0	bc.game
+0.0.0.0	ds1.biz
+0.0.0.0	*.myckdom.com
+0.0.0.0	p274639.myckdom.com
+0.0.0.0	myckdom.com
+0.0.0.0	myfood.ltd
+0.0.0.0	btpnative.com
+0.0.0.0	softarchive.net
+0.0.0.0	*.scorecardresearch.com
+0.0.0.0	sb.scorecardresearch.com
+0.0.0.0	scorecardresearch.com
+0.0.0.0	pebed.dm-event.net
+0.0.0.0	*.dm-event.net
+0.0.0.0	dm-event.net
+0.0.0.0	*.zerles.com
+0.0.0.0	zerles.com
+0.0.0.0	*.compassionthwartamy.com
+0.0.0.0	compassionthwartamy.com
+0.0.0.0	cartasemlimite.cf
+0.0.0.0	futemax.app
+0.0.0.0	*.adsco.re
+0.0.0.0	c.adsco.re
+0.0.0.0	adsco.re
+0.0.0.0	saltstem.site
+0.0.0.0	appearedcrawledramp.com
+0.0.0.0	stake.com
+0.0.0.0	smitry.com
+0.0.0.0	avouse.com
+
+##------------- Disable devtool debug
+#0.0.0.0	gstatic.com
+#0.0.0.0	theajack.github.io
+#0.0.0.0	cdn.jsdelivr.net
+
+##-------------------------------------- Vizer.in Block Ads
+0.0.0.0	diromalxx.com
+0.0.0.0	*.diromalxx.com
+0.0.0.0	whairtoa.com
+0.0.0.0	*.whairtoa.com
+0.0.0.0	optouhou.xyz
+0.0.0.0	*.optouhou.xyz
+0.0.0.0	indicatordevotedriver.com
+0.0.0.0	*.indicatordevotedriver.com
+0.0.0.0	inklinkor.com
+0.0.0.0	*.inklinkor.com
+0.0.0.0	littlecdn.com
+0.0.0.0	*.littlecdn.com
+0.0.0.0	goomaphy.com
+0.0.0.0	*.goomaphy.com
+0.0.0.0	muuucbdkfn.xyz
+0.0.0.0	*.muuucbdkfn.xyz
+0.0.0.0	static.cdnativepush.com
+0.0.0.0	*.cdnativepush.com
+0.0.0.0	cdnativepush.com
+0.0.0.0	*.repayrotten.com
+0.0.0.0	repayrotten.com
+0.0.0.0	*.onmarshtompor.com
+0.0.0.0	onmarshtompor.com
+0.0.0.0	*.direplaywrightphysical.com
+0.0.0.0	direplaywrightphysical.com
+0.0.0.0	*.convertmb.com
+0.0.0.0	convertmb.com
 
 ##-------------------------------------- tiktok removed
 0.0.0.0	v16a.tiktokcdn.com
@@ -16410,11 +16503,11 @@ ff02::3	ip6-allhosts
 ##
 ## adguard
 ##
-127.0.0.1	api.adguard.com
-127.0.0.1	api-b.adguard.com
-127.0.0.1	api-c.adguard.com
-127.0.0.1	api-d.adguard.com
-127.0.0.1	api-e.adguard.com
-127.0.0.1	api-f.adguard.com
+#127.0.0.1	api.adguard.com
+#127.0.0.1	api-b.adguard.com
+#127.0.0.1	api-c.adguard.com
+#127.0.0.1	api-d.adguard.com
+#127.0.0.1	api-e.adguard.com
+#127.0.0.1	api-f.adguard.com
 ##
 ##

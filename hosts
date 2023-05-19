@@ -16381,6 +16381,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	stake.com
 0.0.0.0	smitry.com
 0.0.0.0	avouse.com
+0.0.0.0	planesforce.website
+0.0.0.0	cg04.sdfg4.xyz
+0.0.0.0	*.sdfg4.xyz
+0.0.0.0	barefootedleisurelypizza.com
+0.0.0.0	youradexchange.com
 
 ##------------- Disable devtool debug
 #0.0.0.0	gstatic.com

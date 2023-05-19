@@ -41,3 +41,13 @@ Open the command prompt and run **ping facebook.com** then run **ping www.facebo
 Now open your web browser and go to facebook.com. It might still load! Why? Facebook’s real IP may still be sitting in the browser cache and the browser will use that IP first. [Delete your browser’s cache](https://www.online-tech-tips.com/computer-tips/how-to-clear-the-cache-of-any-web-browser/) and try Facebook again. You should now see an error page.
 
 ![](https://helpdeskgeek.com/wp-content/pictures/2020/06/facebook-error-message.png)
+
+-----------------------------------------
+
+**AdGuard Filter:**
+
+https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+
+https://github.com/AdguardTeam/AdGuardSDNSFilter
+
+https://github.com/AdguardTeam/AdGuardSDNSFilter/tree/master/Filters

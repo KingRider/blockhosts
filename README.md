@@ -51,3 +51,21 @@ https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
 https://github.com/AdguardTeam/AdGuardSDNSFilter
 
 https://github.com/AdguardTeam/AdGuardSDNSFilter/tree/master/Filters
+
+-----------------------------------------
+
+**AdAway Filter:**
+
+https://github.com/AdAway/AdAway/wiki/HostsSources
+
+https://adaway.org/hosts.txt
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+
+https://winhelp2002.mvps.org/hosts.txt
+
+-----------------------------------------
+
+**Update: 09/April/2024**

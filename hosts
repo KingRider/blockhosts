@@ -16432,24 +16432,40 @@ ff02::3	ip6-allhosts
 0.0.0.0	variable-love.pro
 0.0.0.0	172.240.41.64
 0.0.0.0	akismet.com
+0.0.0.0	wiwpuqwfyosx.com
+0.0.0.0	anadistil.com
+
+##-------------------------------------- kingrider@2025
+0.0.0.0	zcode17.com
+0.0.0.0	cdn.jsdelivr.net
+0.0.0.0	fastly.jsdelivr.net
+0.0.0.0	jsdelivr.net
+0.0.0.0	checkinstallapp.com
+0.0.0.0	mundi.ifsul.edu.br
+0.0.0.0	ifsul.edu.br
+0.0.0.0	checkocpzr.click
+0.0.0.0	coaufu.com
+0.0.0.0	coursestiffenjealous.com
+0.0.0.0	bqwnosolnpgj.com
+0.0.0.0	lzoefmqlgwv.com
 
 ##------------- Memu Emulador
 
-0.0.0.0 memuplay.com
-0.0.0.0 www.memuplay.com
-0.0.0.0 u888.v.baishan-cloud.net
-0.0.0.0 u999.v.bsclink.cn
-0.0.0.0 uz95.v.bsclink.cn
-0.0.0.0 ut89.v.bsclink.cn
-0.0.0.0 dl.memuplay.com
-0.0.0.0 www.microvirt.com
-0.0.0.0 microvirt.com
-0.0.0.0 hebei.22.121.in-addr.arpa
-0.0.0.0 d2bg5ibrp06389.cloudfront.net
-0.0.0.0 www.xyaz.cn.w.cdngslb.com
-0.0.0.0 d1ygnxto00lnhl.cloudfront.net
-0.0.0.0 d3p779s2xhx48e.cloudfront.net
-0.0.0.0 d2bg5ibrp06389.cloudfront.net
+#0.0.0.0 memuplay.com
+#0.0.0.0 www.memuplay.com
+#0.0.0.0 u888.v.baishan-cloud.net
+#0.0.0.0 u999.v.bsclink.cn
+#0.0.0.0 uz95.v.bsclink.cn
+#0.0.0.0 ut89.v.bsclink.cn
+#0.0.0.0 dl.memuplay.com
+#0.0.0.0 www.microvirt.com
+#0.0.0.0 microvirt.com
+#0.0.0.0 hebei.22.121.in-addr.arpa
+#0.0.0.0 d2bg5ibrp06389.cloudfront.net
+#0.0.0.0 www.xyaz.cn.w.cdngslb.com
+#0.0.0.0 d1ygnxto00lnhl.cloudfront.net
+#0.0.0.0 d3p779s2xhx48e.cloudfront.net
+#0.0.0.0 d2bg5ibrp06389.cloudfront.net
 
 ##------------- Disable devtool debug
 #0.0.0.0	gstatic.com
